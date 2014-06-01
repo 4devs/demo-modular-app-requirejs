@@ -22,4 +22,3 @@ Each task should have title and category
 Filters
 =======
 It should be possible to filter tasks by category or by status
-
