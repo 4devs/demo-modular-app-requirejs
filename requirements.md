@@ -1,24 +1,18 @@
-To-do list features
-===================
+#To-do list requirements
 
-Localization
-============
+###Localization
 UI must be available in different languages and be extensible
 
-CRUD
-====
+###CRUD
 It should be possible to do all common CRUD operations
 
-Statuses
-========
+###Statuses
 It should be possible to change tasks' statuses to one of following:
 - Resolved
 - Unresolved
 
-Tasks
-=====
+###Tasks
 Each task should have title and category
 
-Filters
-=======
+###Filters
 It should be possible to filter tasks by category or by status
